@@ -1,6 +1,6 @@
 -- EDA
 
--- In this project I will jsut going to explore the data and find trends or patterns or anything interesting like outliers
+-- In this project I will just going to explore the data and find trends or patterns or anything interesting like outliers
 
 -- normally when I start the EDA process I have some idea of what I am looking for
 -- with this info I am just going to look around and see what I can find!
